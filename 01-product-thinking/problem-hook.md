@@ -5,7 +5,7 @@
 - **Strategic crisis, based on the brief, if the company does nothing for 12 months, what happens to its market position?:** StreamLine will become (rightly or wrongly!) pigeonholed as an app that is more of a playlist management tool than playlist curation or discovery tool or anything StreamLine might want to get into in the future
 - **Moment of misery, what is the user likely doing outside the product (Google, spreadsheets, a competitor) because your tool isn’t serving them?:** they are likely conducting music discovery outside of the tool just to HOPEFULLY bring their discoveries into StreamLine
 - **Problem hook, summarize the business risk and user pain into one urgent sentence.:** We must solve losing discovery-driven listeners to other apps by addressing the gap that they have to leave StreamLine to find new music.
-- **Value proposition, based on the proposed initiative (Spotlight or Velocity), what is the new value and why is it urgent to launch now?:** For all customers interested in keeping abreast of new music and keeping playlists fresh - let's focus on our heavy playlist curators, introduce recommendation tools for song choice and playlist refreshes or risk becoming a point solution for part of the user flow
+- **Value proposition, based on the proposed initiative (Spotlight or Velocity), what is the new value and why is it urgent to launch now?:** For all our heavy playlist curator cohort, introduce recommendation tools for song choice and playlist refreshes or risk becoming a point solution for part of the user flow
 
 ## Cold-read your own hook
 - **Is the business risk high enough to justify a new initiative, a high-stakes threat, or a minor inconvenience?:** definitely more than a minor inconvenience
