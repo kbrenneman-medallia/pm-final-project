@@ -19,7 +19,7 @@
 **Value Proposition (adapted for movies and TV):** For our discerning-viewer cohort, introduce human-led recommendations for title choice and watchlist refreshes, or risk becoming a point solution for part of the user flow.
 
 ### Notes on the inputs
-- The original value prop used music terms ("playlist curator," "song choice," "playlist refreshes"). They've been changed to their movies-and-shows equivalents to match the persona and research.
+- The value prop in `../01-product-thinking/problem-hook.md` targets "heavy watchlist curators" with "recommendation tools." This journey frames the same cohort as discerning viewers and the tools as human-led recommendations, to match the persona and the Strategy.
 - The persona wants to be curated *for*, not to curate. So the journey puts human-led curation first and uses viewer input only to adjust the picks.
 - "Restoration" is read as restoring trust and brand authority.
 
